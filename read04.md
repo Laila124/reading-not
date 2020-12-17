@@ -1,0 +1,2 @@
+# PROCESS & DESIGN
+## in this section of the book talk about the process that you can use when you are creating a new website AND WHO ARE YOUR audience, AND WHAT THEY ARE LOKING FOR, ALSO HOW YOU CAN present information visitors want to see IT MEAN HOW YOUR WEBSITE IT LOOK LIKE 
