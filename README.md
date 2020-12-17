@@ -1,6 +1,10 @@
-# growth mindest 
-**growth mindest makes the hard things easy to you,achieves the impossible, so when you do difficult things, your mind will grow and will know yor path and goal, and when a person knows his goal, it becomes impossible not to achieve it.**
-# three things that keep you in a growth mind
-* do the difficult things to make it easier
-the big reward is success,when you tired just stop, take a breath, and remember the end
-the beginning is always difficult, so do not stop
+# READS 
+
+1. [read1](https://laila124.github.io/reading-not/read01)
+2. [read2](https://laila124.github.io/reading-not/read04)
+3. [growth](https://laila124.github.io/reading-not/growthmindest)
+4. [read3](https://laila124.github.io/reading-not/read02)
+5. [read4](/readinghttps://laila124.github.io-not/read05)
+6. [read5](https://laila124.github.io/reading-not/read06)
+7. [read6](https://laila124.github.io/reading-not/read07)
+8. [read7](https://laila124.github.io/reading-not/read08)
